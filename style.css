@@ -39,14 +39,14 @@ background-size:100% 100%;
 }
 
 .Left {
-background-image:url('/home/zadmin/Downloads/table.jpeg');
+background-image:url('table.jpeg');
 background-repeat:y;
     width: 25%;
     border-right: 2px solid black;
 }
 
 .Right {
-background-image:url('/home/zadmin/Downloads/rest.jpeg');
+background-image:url('rest.jpeg');
 background-repeat:no-repeat;
     flex: 1;
 }
